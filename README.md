@@ -1,6 +1,6 @@
 # drop-caps 📰
 
-Implamentation of [Drop caps & design systems](https://product.voxmedia.com/2019/6/17/18524029/the-ballad-of-drop-caps-and-design-systems). Drop caps for &lt;p>
+Unoffical implamentation of [Drop caps & design systems](https://product.voxmedia.com/2019/6/17/18524029/the-ballad-of-drop-caps-and-design-systems). Drop caps for &lt;p>
 
 ## Installation
 

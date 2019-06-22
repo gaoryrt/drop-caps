@@ -8,6 +8,9 @@
     "email": "gaoryrt@gmail.com",
     "url": "github.com/gaoryrt"
   },
+  "files": [
+    "index.js"
+  ],
   "license": "MIT",
   "devDependencies": {
     "xo": "^0.24.0"

@@ -1,6 +1,6 @@
 {
   "name": "drop-caps",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Drop caps for <p>",
   "repository": "gaoryrt/drop-caps",
   "author": {
@@ -17,8 +17,17 @@
   },
   "xo": {
     "rules": {
-      "object-curly-spacing": ["error", "always", { "objectsInObjects": false }],
-      "curly": ["error", "multi-or-nest"]
+      "object-curly-spacing": [
+        "error",
+        "always",
+        {
+          "objectsInObjects": false
+        }
+      ],
+      "curly": [
+        "error",
+        "multi-or-nest"
+      ]
     },
     "semicolon": false,
     "space": 2

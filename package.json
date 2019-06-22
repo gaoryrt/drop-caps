@@ -1,0 +1,26 @@
+{
+  "name": "drop-caps",
+  "version": "0.0.1",
+  "description": "Drop caps for <p>",
+  "repository": "gaoryrt/drop-caps",
+  "author": {
+    "name": "gaoryrt",
+    "email": "gaoryrt@gmail.com",
+    "url": "github.com/gaoryrt"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "xo": "^0.24.0"
+  },
+  "xo": {
+    "rules": {
+      "object-curly-spacing": ["error", "always", { "objectsInObjects": false }],
+      "curly": ["error", "multi-or-nest"]
+    },
+    "semicolon": false,
+    "space": 2
+  },
+  "dependencies": {
+    "gelerator": "^2.1.2"
+  }
+}
